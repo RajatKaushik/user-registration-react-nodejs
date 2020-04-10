@@ -1,0 +1,35 @@
+{
+  "name": "user-registration-app",
+  "version": "1.0.0",
+  "description": "ImageKit.io User-Registration Assignment by Rajat Kaushik",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RajatKaushik/user-registration-react-nodejs.git"
+  },
+  "keywords": [
+    "User",
+    "Registration",
+    "ReactJS",
+    "NodeJS"
+  ],
+  "author": "Rajat Kaushik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RajatKaushik/user-registration-react-nodejs/issues"
+  },
+  "homepage": "https://github.com/RajatKaushik/user-registration-react-nodejs#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "email-validator": "^2.0.4",
+    "express": "^4.17.1",
+    "express-ip": "^1.0.4",
+    "mongoose": "^5.9.7"
+  }
+}
