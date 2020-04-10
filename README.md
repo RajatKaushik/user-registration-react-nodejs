@@ -19,3 +19,11 @@ User Registration ReactJS + NodeJS app.
 
 > All the configuration for the application are in **config-> config.js**
 > Please change the configuration according to the local system environment.
+
+## Future Enhancements
+- Adding Automated Unit Test Cases for React using Jest, enzyme.
+- Adding Automated Unit Test Cases for NodeJS using Jest.
+- Adding API docs using Swagger.
+- Adding application logs.
+- Adding Redis for IPInformation caching.
+- Create a docker image for easier deployment.
