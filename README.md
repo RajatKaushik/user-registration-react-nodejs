@@ -1,6 +1,6 @@
 # user-registration-react-nodejs
 
-User Registration ReactJS + NodeJS app.
+A reCaptch based User Registration ReactJS + NodeJS app. Handling all the cases that can arise while registering users.
 
 ## Front-End
 
